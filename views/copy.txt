@@ -1,0 +1,55 @@
+<div class="col-md-4">
+               <div class="card">
+            <div class="card-body"></div>
+           <div class="container">
+               <i class="fa-brands fa-github service_icon"></i>
+           </div>
+            <h5 class="card-title">Provide Best courses</h5>
+            <p>We provide courses that help our students learn in the best possible way.</p>
+             <a href="#1">Check</a>
+             <a href="#2" class="ml-3">Support</a>
+           </div>
+            
+            </div>
+
+           <div class="col-md-4">
+            <div class="card">
+            <div class="card-body">
+                <div class="container">
+               <i class="fa-solid fa-money-bill service_icon"></i>
+           </div>
+            <h5 class="card-title">Learn projects</h5>
+            <p>We provide hands on project building experience.</p>
+             <a href="#1">Check</a>
+             <a href="#2" class="ml-3">Support</a>
+            </div>
+            </div>
+           </div>
+            
+          <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <div class="container">
+               <i class="fa-brands fa-linkedin service_icon"></i>
+           </div>
+            <h5 class="card-title">Get jobs</h5>
+            <p>We prepare you for GD/PIs and aptitude as well.</p>
+             <a href="#1">Check</a>
+             <a href="#2" class="ml-3">Support</a>
+                </div>
+            </div>
+          </div>
+          
+
+           <div class="col-md-4">
+           <div class="card">
+            <div class="card-body">
+             <div class="container">
+               <i class="fa-solid fa-bullseye service_icon"></i>
+             </div>
+             <h5 class="card-title">Learn to code</h5>
+             <p>We provide the best coding courses in python,C,Java,C++ and even courses on DSA</p>
+             <a href="#1">Check</a>
+             <a href="#2" class="ml-3">Support</a>
+            </div>
+           </div>
